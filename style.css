@@ -49,7 +49,6 @@
 
   .dropdown-menu {
       width: 100%;
-      text-align: center;
       max-height: 300px;
       overflow-y: auto;
   }
